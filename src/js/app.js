@@ -74,3 +74,5 @@ slides.forEach((slide) => {
 		current = current % images.length;
 	});
 });
+
+
