@@ -135,7 +135,7 @@ div.info {
 
 @media (max-width: 670px) {
 	div.split {
-		padding: 80px 0 80px 0;
+		padding: 40px 0 40px 0;
 	}
 	
 	div.slides {
@@ -146,5 +146,13 @@ div.info {
 
 	div.info {
 		max-width: 75vw;
+	}
+
+	section h2, p {
+		font-size: 20px;
+	}
+
+	.button {
+		margin-top: 15px;
 	}
 }
