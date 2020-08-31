@@ -1,0 +1,22 @@
+{
+  "name": "seamstress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amemon0326/pongdemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amemon0326/pongdemo/issues"
+  },
+  "homepage": "https://github.com/amemon0326/pongdemo#readme",
+  "devDependencies": {
+    "imagemin": "^7.0.1"
+  }
+}
