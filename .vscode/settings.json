@@ -1,0 +1,10 @@
+{
+    "prettier.arrayExpand": true,
+    "prettier.alignObjectProperties": true,
+    "prettier.cssEnable": [
+        "css",
+        "less",
+        "scss",
+        "postcss"
+    ]
+}
